@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 29efd43416de5c74ebf881aa72d0219d
+timeCreated: 1471067051
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Tile: {fileID: 144140, guid: eb041ef294ea3a84d9d6218b21779430, type: 2}
+  executionOrder: -1100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
